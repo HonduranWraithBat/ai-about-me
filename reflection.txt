@@ -1,0 +1,9 @@
+1. I used ChatGPT to generate my HTML and CSS code.
+
+2. My initial prompt was: "Create an About Me section for a portfolio website using HTML and CSS only. Include a profile photo, name, bio, and skills, though mainly for the profile photo as I am not a post my photo out there type unless its my family or friends."
+
+3. I used about 4-5 prompts to refine the design and fix the small issues within the code and also communication wise with chatgpt.
+
+4. I customized the design by changing colors, adjusting spacing, and styling the skills section with rounded badges.
+
+5. One thing I learned is how to link an external CSS file to HTML and how to make a layout responsive using Flexbox.
